@@ -1,5 +1,3 @@
 # simple_app
 
-DESIGN ONLY
-
-## Getting Started
+## DESIGN ONLY
