@@ -1,6 +1,6 @@
 # simple_app
 
-A new Flutter project.
+DESIGN ONLY
 
 ## Getting Started
 
